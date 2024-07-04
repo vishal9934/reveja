@@ -7,14 +7,14 @@ const Main = () => {
         <div className="container">
           <div className="block-1 px-3">
             <h1 className="text-center text-txtcolor-30 font-extrabold text-[28px] md:text-[36px] xl:text-[48px] mt-20">
-              Revolutionize your Customer's Experience
+              Revolutionize your Customer&apos;s Experience
             </h1>
             <p className="text-center text-[16px] md:text-[20px] xl:text-[24px] font-semibold text-bgblue-20 font-poppins mt-4 lg:mt-6">
-              reveza empowers brand's journey with cutting edge platform,
+              reveza empowers brand&apos;s journey with cutting edge platform,
               seamlessly integrating AI to capture customer sentiment from pre
               to post purchase by unleashing the power of reviews, realtime
               responsive engagement, and also instant gratification reward model
-              to transform brand's customer experience fostering unwavering
+              to transform brand&apos;s customer experience fostering unwavering
               loyalty.
             </p>
             <p className="text-[#233F83] font-montserrat font-medium text-[24px] xl:text-[28px] text-center mt-10 sm:mt-6">
@@ -51,12 +51,12 @@ const Main = () => {
                 <br />
                 <span className="text-[16px] md:text-[18px] lg:text-[22px] font-light lg:leading-[3rem]">
                   Engage shoppers with real-time, responsive communication
-                  fueled by intelligent data. Build loyalty through reveza's
+                  fueled by intelligent data. Build loyalty through reveza&apos;s
                   innovative instant gratification rewards program. With one
                   unified solution, reveza empowers brands to deliver
                   personalized, seamless retail journeys that delight customers
                   and drive measurable business impact. Unlock a competitive
-                  edge by tapping into the power of reveza's AI capabilities
+                  edge by tapping into the power of reveza&apos;s AI capabilities
                   today.
                 </span>
               </p>
@@ -81,7 +81,7 @@ const Main = () => {
                 </span>{" "}
                 <br />
                 <span className="text-[16px] md:text-[18px] lg:text-[22px] font-light lg:leading-[3rem]">
-                  Reveza's AI platform helps brands optimize customer journeys
+                  Reveza&apos;s AI platform helps brands optimize customer journeys
                   for significant returns. It harnesses sentiment data to
                   improve offerings, enables real-time engagement reducing
                   churn, and incentivizes purchases via instant rewards boosting
@@ -103,7 +103,7 @@ const Main = () => {
                   Data Protection Act standards through advanced anonymization,
                   encryption, and comprehensive governance. Its AI platform
                   ensures customer data analysis is fully safeguarded and
-                  compliant. Brands leverage Reveza's capabilities
+                  compliant. Brands leverage Reveza&apos;s capabilities
                   transparently, upholding ethics while unlocking AI insights.
                   Certified under rigorous guidelines, Reveza harmonizes
                   innovative retail tech with digital rights compliantly.
