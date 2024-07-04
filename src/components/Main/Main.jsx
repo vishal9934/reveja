@@ -19,7 +19,7 @@ const Main = () => {
             </p>
             <p className="text-[#233F83] font-montserrat font-medium text-[24px] xl:text-[28px] text-center mt-10 sm:mt-6">
               {" "}
-              Explore your Brand’s Journey with reveza’s AI cutting edge
+              Explore your Brand&apos;s Journey with reveza&apos;s AI cutting edge
               platform fostering real time exceptional customer retention &
               Loyalty
             </p>
